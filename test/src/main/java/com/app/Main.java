@@ -30,7 +30,7 @@ public class Main {
                 {66, 67, 67, 99, 78, 45, 99}};
 
         for(int i = 0; i < name.length; i++){
-            System.out.println("Marks of : " + name[i] + "are as follows");
+            System.out.println("Marks of : " + name[i] + "are as follows ::");
             for(int j = 0; j < marks[i].length; j++){
                 System.out.print(marks[i][j] + " ");
             }
